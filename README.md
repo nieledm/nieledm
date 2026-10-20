@@ -66,8 +66,9 @@ Atuo no planejamento, implantação e manutenção de redes enterprise, clusteri
 
 ## 📫 Conecte-se comigo
 * 🏢 **Atuação:** Centro de Química Medicinal (CQMED) & CBMEG / UNICAMP
-* 💼 **LinkedIn:** [Niele Mendes](https://www.linkedin.com/in/nielediasmendes) <!-- Coloque seu link real -->
-* ✉️ **Email:** seu.email@unicamp.br <!-- Coloque seu e-mail real -->
+* 💼 **LinkedIn:** [Niele Mendes](www.linkedin.com/in/niele-dias-mendes-programadora)
+* ✉️ **Email (1):** nieledm@gmail.com
+* ✉️ **Email (2):** nieledm@unicamp.br
 
 ---
 > *"Infraestrutura resiliente e código limpo para viabilizar a ciência."*
