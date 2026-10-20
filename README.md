@@ -64,21 +64,5 @@ Atuo no planejamento, implantação e manutenção de redes enterprise, clusteri
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&bg_color=15,f8fafc,e2e8f0&border_color=cbd5e1&border_radius=12&title_color=2563eb&text_color=334155" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&bg_color=30,0f172a,1e293b&border_color=38bdf8&border_radius=12&title_color=38bdf8&text_color=f1f5f9" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&bg_color=30,0f172a,1e293b&border_color=38bdf8&border_radius=12&title_color=38bdf8&text_color=f1f5f9" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&bg_color=00000000&border_color=2563eb&border_radius=12&title_color=2563eb&text_color=334155" alt="Linguagens mais usadas" />
 </div>
