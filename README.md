@@ -66,3 +66,11 @@ Atuo no planejamento, implantação e manutenção de redes enterprise, clusteri
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&theme=dark" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&hide_border=true&bg_color=00000000" alt="Linguagens mais usadas" />
+</div>
