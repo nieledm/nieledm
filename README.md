@@ -4,6 +4,14 @@ Administrador de Infraestrutura de TI, DevOps e Desenvolvedor focado em garantir
 
 Atuo no planejamento, implantação e manutenção de redes enterprise, clusterização de servidores, virtualização, segurança e desenvolvimento de aplicações web customizadas.
 
+<!-- Badges de Tecnologias -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ---
 
 ## 🛠️ Stack Tecnológica & Infraestrutura
