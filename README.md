@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&bg_color=00000000&border_color=2563eb&border_radius=12&title_color=2563eb&text_color=334155" alt="Linguagens mais usadas" width="350" align="right" />
 </p>
 
-<span style="font-size: 2em; font-weight: bold;">Olá, eu sou o Niele Mendes 👋</span>
+<h1>Olá, eu sou o Niele Mendes 👋</h1>
 
 <br /><br />
 
