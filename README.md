@@ -55,3 +55,7 @@ Atuo no planejamento, implantação e manutenção de redes enterprise, clusteri
 
 ---
 > *"Infraestrutura resiliente e código limpo para viabilizar a ciência."*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
