@@ -7,12 +7,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&bg_color=00000000&border_color=2563eb&border_radius=12&title_color=2563eb&text_color=334155" alt="Linguagens mais usadas" width="350" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nieledm&layout=compact&bg_color=ffffff&border_color=2563eb&border_radius=12&title_color=2563eb&text_color=334155" alt="Linguagens mais usadas" width="350" align="right" />
 </p>
 
-<h1>Olá, eu sou o Niele Mendes 👋</h1>
-
-<br /><br />
+<h1 style="border-bottom: none; margin-top: 0;">Olá, eu sou o Niele Mendes 👋</h1>
 
 Administrador de Infraestrutura de TI, DevOps e Desenvolvedor focado em garantir alta disponibilidade, automação e soluções computacionais integradas para ambientes acadêmicos e de pesquisa científica.
 
